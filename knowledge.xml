@@ -1,0 +1,14 @@
+<knowledge>
+  <item>
+    <topic>rishi</topic>
+    <tip>Always stay curious!</tip>
+    <link>https://example.com/rishi-tip</link>
+    <coupon>RISHI10</coupon>
+  </item>
+  <item>
+    <topic>chatbot</topic>
+    <tip>Use AI to automate replies.</tip>
+    <link>https://example.com/chatbot-guide</link>
+    <coupon>BOT20</coupon>
+  </item>
+</knowledge>
