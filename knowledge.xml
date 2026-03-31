@@ -5,10 +5,15 @@
     <link>https://example.com/chatbot-guide</link>
     <coupon>BOT20</coupon>
   </item>
+   <item>
+    <topic>rishi</topic>
+    <tip>rishi ya.</tip>
+    <link>https://example.com/rishi</link>
+    <coupon>RISHI20</coupon>
+  </item>
   <item>
     <topic>facebook</topic>
     <tip>connect with friends.</tip>
     <link>https://facebook.com</link>
-    <coupon></coupon>
   </item>
 </knowledge>
