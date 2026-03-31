@@ -1,0 +1,5 @@
+[
+  { "topic": "rishi", "tip": "Always stay curious!", "link": "https://example.com/rishi-tip", "coupon": "RISHI10" },
+  { "topic": "chatbot", "tip": "Use AI to automate replies.", "link": "https://example.com/chatbot-guide", "coupon": "BOT20" },
+  { "topic": "web", "tip": "Keep websites responsive.", "link": "https://example.com/web-tips", "coupon": "WEB15" }
+]
